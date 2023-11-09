@@ -1,24 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
 I am a FullStack Developer with expertise in HTML, SASS, JS, TS, Node.js, SQL, and deeply passionate about React. I specialize in mobile-first responsive web design to ensure optimal user experiences across all devices. My technical background includes a Bachelor's degree in Radio Engineering, which has honed my systematic thinking, attention to detail, and creative problem-solving abilities. My analytical skills enable me to optimize processes and implement innovative solutions effectively.
 In addition to my strong technical skills, I have a good command of English and demonstrated leadership abilities by managing teams of 80+ employees. I excel in effective communication with colleagues and clients and can quickly adapt to changes. I am a valuable team player who thrives in collaborative environments.
 
-###Technologies
+<hr/>
+<br/>
 
-https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg  css  javascript  sass/scss  nodejs  jquery  
+# Technologies
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="100px" height="100px">
+
+<hr/>
+<br/>
+
+# Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="80px" height="80px"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="80px" height="80px">
+
+<hr/>
+<br/>
+
+# Get in touch
+
+<a href="https://t.me/vadym_99" target="_blank"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" width="80px" height="80px"></a>
+<a href="mailto:vadymprydatok@gmail.com" target="_blank"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="80px" height="80px"></a>
+<a href="https://t.me/vadym_99" target="_blank"></a>
+
+<hr/>
+
+### Also, you can enjoy my amazing works 👇
 
 
-<!--
-**Vadym-Prydatok/Vadym-Prydatok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
