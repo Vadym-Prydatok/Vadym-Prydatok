@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a FullStack Developer with expertise in HTML, SASS, JS, TS, Node.js, SQL, and deeply passionate about React. I specialize in mobile-first responsive web design to ensure optimal user experiences across all devices. My technical background includes a Bachelor's degree in Radio Engineering, which has honed my systematic thinking, attention to detail, and creative problem-solving abilities. My analytical skills enable me to optimize processes and implement innovative solutions effectively.
+In addition to my strong technical skills, I have a good command of English and demonstrated leadership abilities by managing teams of 80+ employees. I excel in effective communication with colleagues and clients and can quickly adapt to changes. I am a valuable team player who thrives in collaborative environments.
+
+###Technologies
+
+https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg  css  javascript  sass/scss  nodejs  jquery  
+
+
 <!--
 **Vadym-Prydatok/Vadym-Prydatok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
